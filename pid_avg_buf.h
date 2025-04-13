@@ -4,7 +4,7 @@
 * Chien-Hrones-Reswick Algorithm, a PID coefficient finder method using step-response measured data
 *
 * @date Sep 27, 2019
-* @author andreika, (c) 2019
+* @author BrunoFA, (c) 2019
 */
 
 #pragma once

@@ -4,7 +4,7 @@
 * PID Controller models needed to verify the parameters.
 *
 * @date Oct 02, 2019
-* @author andreika, (c) 2019
+* @author BrunoFA, (c) 2019
 */
 
 #pragma once

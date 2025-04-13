@@ -4,7 +4,7 @@
 * PID Auto tune.
 *
 * @date Oct 08, 2019
-* @author andreika, (c) 2019
+* @author BrunoFA, (c) 2019
 */
 
 #pragma once

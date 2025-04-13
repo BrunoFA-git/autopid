@@ -2,7 +2,7 @@
 * @file	matrix_helper.h
 *
 * @date Sep 27, 2019
-* @author andreika, (c) 2019
+* @author BrunoFA, (c) 2019
 */
 
 #pragma once

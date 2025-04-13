@@ -2,7 +2,7 @@
 * @file	pid_from_msl.cpp
 *
 * @date Oct 5, 2019
-* @author andreika, (c) 2019
+* @author BrunoFA, (c) 2019
 */
 
 #include "global.h"
@@ -144,7 +144,7 @@ int main(int argc, char **argv) {
 	}
 	
 	printf("PID_FROM_MSL - find PID controller coefficients based on a measured step response in a rusEFI log file.\r\n");
-	printf("Version 0.3 (c) andreika, 2019\r\n\r\n");
+	printf("Version 0.3 (c) BrunoFA, 2019\r\n\r\n");
 	printf("Reading file %s...\r\n", argv[1]);
 	
 	MslData data;

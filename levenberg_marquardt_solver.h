@@ -6,7 +6,7 @@
 * The code is based on "W.Press, S.Teukolsky, W.Vetterling, B.Flannery. Numerical Recipes in Fortran 77, 1992."
 *
 * @date Sep 27, 2019
-* @author andreika, (c) 2019
+* @author BrunoFA, (c) 2019
 */
 
 #pragma once

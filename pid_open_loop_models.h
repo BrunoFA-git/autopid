@@ -6,7 +6,7 @@
 * These parameters come from Taylor-McLaurin expansion of the model
 *
 * @date Sep 27, 2019
-* @author andreika, (c) 2019
+* @author BrunoFA, (c) 2019
 */
 
 #pragma once
@@ -197,7 +197,7 @@ public:
 	}
 };
 
-// Based on Haalman-Pemberton model: "Haalman, A.: Adjusting controllers for a deadtime process. Control Eng. 65, 71–73 (1965)"
+// Based on Haalman-Pemberton model: "Haalman, A.: Adjusting controllers for a deadtime process. Control Eng. 65, 71ï¿½73 (1965)"
 // Suited for overdamped response and significant delay.
 class ModelHaalmanPembertonSecondOrder : public ModelStandard {
 public:
@@ -217,7 +217,7 @@ public:
 };
 
 // Based on IMC-Maclaurin model:
-// Lee, Y., Park, S., Lee, M., and Brosilow, C., PID controller tuning for desired closed - loop responses for SI / SO systems. AIChE J. 44, 106–115 1998.
+// Lee, Y., Park, S., Lee, M., and Brosilow, C., PID controller tuning for desired closed - loop responses for SI / SO systems. AIChE J. 44, 106ï¿½115 1998.
 class ModelMaclaurinSecondOrder : public ModelStandardIMC {
 public:
 	ModelMaclaurinSecondOrder(const double_t *params_) : ModelStandardIMC(params_) {

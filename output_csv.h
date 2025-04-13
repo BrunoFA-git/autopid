@@ -4,7 +4,7 @@
 * Output data to .CSV file
 *
 * @date Oct 06, 2019
-* @author andreika, (c) 2019
+* @author BrunoFA, (c) 2019
 */
 
 #pragma once
