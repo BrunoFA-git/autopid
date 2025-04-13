@@ -143,7 +143,7 @@ int main(int argc, char **argv) {
 		return -1;
 	}
 	
-	printf("PID_FROM_MSL - find PID controller coefficients based on a measured step response in a rusEFI log file.\r\n");
+	printf("PID_FROM_MSL - find PID controller coefficients based on a measured step response in a ecu-TECH log file.\r\n");
 	printf("Version 0.3 (c) BrunoFA, 2019\r\n\r\n");
 	printf("Reading file %s...\r\n", argv[1]);
 	
